@@ -1,0 +1,37 @@
+header{
+    width: 98vw;
+    display: flex;
+    border: solid 2px black;
+    margin: 10px;
+
+}
+ul{display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;}
+li{
+    list-style: none;
+    width: 10vw;
+    height: 5vh;
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 5vh;
+    font-size: 1.5em;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+span{margin: 30px;
+    font-size: 1.5em;
+    font-weight: bold;
+    cursor: default;
+    background-color: aliceblue;
+}
+header{
+    background-color: #e5e5f7;
+opacity: 0.8;
+background: linear-gradient(135deg, #444cf755 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(225deg, #444cf7 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(315deg, #444cf755 25%, transparent 25%) 0px 0/ 20px 20px, linear-gradient(45deg, #444cf7 25%, #e5e5f7 25%) 0px 0/ 20px 20px;
+
+}
