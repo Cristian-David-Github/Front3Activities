@@ -1,5 +1,5 @@
 const exercises = [
-    { id: 1, name: "Introduction to JSX", url: "./SecondExercise/index.html" },
+    { id: 1, name: "Introduction to JSX", url: "./SecondActivity/index.html" },
 
 
 ]
