@@ -1,0 +1,42 @@
+*{
+    text-align: center;
+    font-size: 1.1em;
+    text-decoration: none;
+}
+body{
+    background-color: #aacce1;
+}
+#main{
+    
+    height: 90vh;
+    width: 99vw; 
+
+}
+span{
+    font-size: 1.5em;
+    color: rgb(131, 3, 3);
+    
+}
+ul{
+    list-style-type: none;
+    margin: 5px;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.587);
+}
+li{
+    height: 6vh;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    width: 99%;
+    border: solid 3px rgb(131, 3, 3);    
+    
+}
+li a{
+    display: block;   
+    text-align: center;
+    padding-top: 5px;
+    text-decoration: none;
+    display: block;
+}
